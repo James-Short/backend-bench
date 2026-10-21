@@ -1,0 +1,4 @@
+Endpoints:
+/ping just responds with "pong"
+/json will return a list of 100 objects with IDs and usernames
+/users:id will get a user from the list by their ID
